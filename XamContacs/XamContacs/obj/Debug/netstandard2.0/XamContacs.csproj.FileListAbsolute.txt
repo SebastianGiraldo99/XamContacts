@@ -1,0 +1,15 @@
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\bin\Debug\netstandard2.0\XamContacs.deps.json
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\bin\Debug\netstandard2.0\XamContacs.dll
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\bin\Debug\netstandard2.0\ref\XamContacs.dll
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\bin\Debug\netstandard2.0\XamContacs.pdb
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\XamContacs.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\View\ContactDetailPage.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\View\ContactPage.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\XamContacs.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\XamContacs.AssemblyInfo.cs
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\XamContacs.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\XamContacs.dll
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\ref\XamContacs.dll
+C:\Users\SEBASTIAN\source\repos\XamContacs\XamContacs\XamContacs\obj\Debug\netstandard2.0\XamContacs.pdb
